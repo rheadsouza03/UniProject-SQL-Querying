@@ -1,3 +1,5 @@
+-- This file just contains miscellanious queries to make it easier for me to edit 
+-- and paste into the terminal for the data population
 CREATE TEMP TABLE temp_has_skills (
   robber_nickname VARCHAR(100),
   description VARCHAR(100),
